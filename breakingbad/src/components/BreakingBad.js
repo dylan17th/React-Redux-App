@@ -6,6 +6,7 @@ import Loader from "react-loader";
 import '../style/breakingbad.css';
 
 const BreakingBad = props => {
+  
   const [name, setName] = useState("");
 
   const handleSelectChanges = e => {
@@ -23,11 +24,8 @@ const BreakingBad = props => {
           <option value="Skyler+White">Skyler White</option>
           <option value="Jesse+Pinkman">Jesse Pinkman</option>
           <option value="Hank+Schrader">Hank Schrader</option>
-          <option value="Marie+Schrader">Marie Schrader</option>
           <option value="Saul+Goodman">Saul Goodman</option>
-          <option value="Gustavo+Fring">Gustavo Fring</option>
           <option value="Mike+Ehrmantraut">Mike Ehrmantraut</option>
-          <option value="Lydia+Rodarte-Quayle">Lydia Rodarte-Quayle</option>
         </select>
         <button
           className='button'
@@ -35,11 +33,9 @@ const BreakingBad = props => {
             e.preventDefault();
             props.dataGetter(name);
           }}
-        >
-          Find Qoutes
-        </button>
+        >Find Qoutes</button>
       </form>
-      <div>
+      <div className='practice'>
         {props.isLoading && (
           <Loader
             loaded={false}

@@ -7,6 +7,7 @@ import { reducer } from "./reducer";
 import App from "./App";
 import {BrowserRouter as Router} from 'react-router-dom';
 
+
 const store = createStore(reducer, applyMiddleware(thunk));
 
 const rootElement = document.getElementById("root");

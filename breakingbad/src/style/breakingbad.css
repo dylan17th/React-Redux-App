@@ -48,3 +48,9 @@
         text-align: center;
         margin: 0rem .5rem;
 }
+.practice{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 2rem;
+}
