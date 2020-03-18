@@ -14,6 +14,6 @@ export const dataGetter = name => dispatch => {
       });
     })
     .catch(err => {
-      dispatch({ type: FETCHING_QOUTES_ERROR });
+      dispatch({ type: FETCHING_QOUTES_ERROR ,payload: err });
     });
 };
