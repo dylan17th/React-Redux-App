@@ -1,0 +1,22 @@
+.card-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    color:white;
+    width:30%;
+    border: black solid 2px ;
+    background-color: #484848;
+    padding: 1.5rem;
+    text-align: center;
+    margin: 1rem;
+    border-radius: 10px;
+}
+.name{
+    margin-top:-1rem;
+    margin-bottom: 1rem ;
+}
+.series{
+    margin-top: -.5rem;
+}
