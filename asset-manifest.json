@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dylan17th/React-Redux-App/static/css/main.b47e3d1a.chunk.css",
+    "main.js": "/dylan17th/React-Redux-App/static/js/main.edf0a0ee.chunk.js",
+    "main.js.map": "/dylan17th/React-Redux-App/static/js/main.edf0a0ee.chunk.js.map",
+    "runtime-main.js": "/dylan17th/React-Redux-App/static/js/runtime-main.9668169e.js",
+    "runtime-main.js.map": "/dylan17th/React-Redux-App/static/js/runtime-main.9668169e.js.map",
+    "static/js/2.a7911ff9.chunk.js": "/dylan17th/React-Redux-App/static/js/2.a7911ff9.chunk.js",
+    "static/js/2.a7911ff9.chunk.js.map": "/dylan17th/React-Redux-App/static/js/2.a7911ff9.chunk.js.map",
+    "index.html": "/dylan17th/React-Redux-App/index.html",
+    "precache-manifest.d93f436bff143dd30a4a326c09c7d7fd.js": "/dylan17th/React-Redux-App/precache-manifest.d93f436bff143dd30a4a326c09c7d7fd.js",
+    "service-worker.js": "/dylan17th/React-Redux-App/service-worker.js",
+    "static/css/main.b47e3d1a.chunk.css.map": "/dylan17th/React-Redux-App/static/css/main.b47e3d1a.chunk.css.map",
+    "static/js/2.a7911ff9.chunk.js.LICENSE.txt": "/dylan17th/React-Redux-App/static/js/2.a7911ff9.chunk.js.LICENSE.txt",
+    "static/media/the-one.jpg": "/dylan17th/React-Redux-App/static/media/the-one.49b81ab4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9668169e.js",
+    "static/js/2.a7911ff9.chunk.js",
+    "static/css/main.b47e3d1a.chunk.css",
+    "static/js/main.edf0a0ee.chunk.js"
+  ]
+}
